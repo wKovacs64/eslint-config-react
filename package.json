@@ -39,18 +39,16 @@
     "access": "public"
   },
   "dependencies": {
-    "@wkovacs64/eslint-config": "4.0.0"
+    "@wkovacs64/eslint-config": "^4.0.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^4.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "7.5.0",
     "@commitlint/config-conventional": "7.5.0",
-    "babel-eslint": "10.0.1",
     "commitizen": "3.0.5",
     "cz-conventional-changelog": "2.1.0",
     "eslint": "5.13.0",
-    "eslint-config-airbnb": "17.1.0",
-    "eslint-config-airbnb-base": "13.1.0",
-    "eslint-config-prettier": "4.0.0",
     "eslint-plugin-import": "2.16.0",
     "eslint-plugin-jest": "22.2.2",
     "eslint-plugin-jsx-a11y": "6.2.1",
@@ -62,11 +60,7 @@
     "semantic-release": "15.13.3"
   },
   "peerDependencies": {
-    "babel-eslint": "^10.0.1",
     "eslint": "^5.13.0",
-    "eslint-config-airbnb": "^17.1.0",
-    "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-config-prettier": "^4.0.0",
     "eslint-plugin-import": "^2.16.0",
     "eslint-plugin-jest": "^22.2.2",
     "eslint-plugin-jsx-a11y": "^6.2.1",
