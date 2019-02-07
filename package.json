@@ -39,7 +39,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@wkovacs64/eslint-config": "3.0.0"
+    "@wkovacs64/eslint-config": "3.0.1"
   },
   "devDependencies": {
     "@commitlint/cli": "7.5.0",

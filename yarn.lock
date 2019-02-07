@@ -378,10 +378,10 @@
     into-stream "^4.0.0"
     lodash "^4.17.4"
 
-"@wkovacs64/eslint-config@3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@wkovacs64/eslint-config/-/eslint-config-3.0.0.tgz#64bd336984a6034f050d7a91fafc04243b5cc12b"
-  integrity sha512-CPPaYW5qG5Iqsk24VKp1SAKUKvL4oFtUM3OKn0JYdAURibmQ+44RRPellMhjxLWNU/lAiw7HCK+UxmkdmKkZ1g==
+"@wkovacs64/eslint-config@3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@wkovacs64/eslint-config/-/eslint-config-3.0.1.tgz#ca02f9a4e5fc6bf2a9914e65fccb25e988e9d987"
+  integrity sha512-p/foRthdwaQEkFGdPbMnX/k108CGBg+v+/sm5w3wNtRcz79qL1vAvuMyS6rFuayuvKN8Lb44iBmWg8GbrWecNQ==
 
 JSONStream@^1.0.4, JSONStream@^1.3.4:
   version "1.3.5"
