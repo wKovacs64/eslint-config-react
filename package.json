@@ -41,7 +41,7 @@
   "dependencies": {
     "@wkovacs64/eslint-config": "^4.0.0",
     "eslint-config-airbnb": "^17.1.0",
-    "eslint-config-prettier": "^4.0.0"
+    "eslint-config-prettier": "^5.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "8.0.0",
