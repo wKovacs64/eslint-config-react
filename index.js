@@ -14,6 +14,7 @@ module.exports = {
     'jsx-a11y/label-has-for': 'off',
     'react/destructuring-assignment': 'off',
     'react/jsx-filename-extension': 'off',
+    'react/self-closing-comp': 'off',
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn',
   },
